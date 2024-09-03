@@ -12,16 +12,17 @@ Hi there 👋, I'm Jason, Jiang Shuo
 - 🌱 I’m currently learning Everything I like
 - 💬 I'm interested in antimicrobial resistance, microbial genomics, and One Health
 
+
 Education
 ======
-The University of Hong Kong                                                    Hong Kong
-- Doctor of Philosophy                                                       Sep 2020-Aug 2024
-- Major: Antimicrobial resistance, Microbiolgy
-The University of Hong Kong                                                    Hong Kong
-- Master of Medical Science                                                   Sep 2018-Aug 2019
+The University of Hong Kong, Sep 2020-Aug 2024                                                   
+- Doctor of Philosophy
+- Major: Antimicrobial resistance, Microbiology
+The University of Hong Kong, Sep 2020-Aug 2024                                                
+- Master of Medical Science                                                  
 - Major: Medical science, Microbiology
-Central South University                                                   Changsha, China
-- Bachelor of Science                                                        Sep 2014-July 2018
+Central South University, Sep 2014-July 2018
+- Bachelor of Science                                                       
 - Major: Medical Laboratory Science
 
 
