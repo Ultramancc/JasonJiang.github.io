@@ -12,9 +12,9 @@ title                    : "JiangShuo"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-URL                      : "https://JasonJiang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+URL                      : https://JasonJiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""
-repository               : "Ultramancc.github.io/JasonJiang.github.io"
+repository               : "Ultramancc/JasonJiang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
